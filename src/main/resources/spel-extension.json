@@ -1,0 +1,34 @@
+{
+  "kim.nzxy.demo.annotations.DemoAnno@spelValue": {
+    "method": {
+      "parameters": true,
+      "parametersPrefix": [
+        "p",
+        "a"
+      ]
+    },
+    "fields": {
+      "demo": "java.util.Map<String, String>",
+      "demo2": "Long",
+      "demo3": "Integer",
+      "demo4": "Integer"
+    }
+  },
+  "kim.nzxy.demo.annotations.DemoAnno@spelTemplateValue": {
+    "prefix": "#{",
+    "suffix": "}",
+    "method": {
+      "parameters": true,
+      "parametersPrefix": [
+        "p",
+        "a"
+      ]
+    },
+    "fields": {
+      "demo": "java.util.Map<String, String>",
+      "demo2": "Long",
+      "demo3": "Integer",
+      "demo4": "Integer"
+    }
+  }
+}
